@@ -1,0 +1,14 @@
+{
+  "name": "asatools-expo",
+  "version": "1.0.0",
+  "description": "React Native Expo SDK for Apple Search Ads attribution and revenue tracking",
+  "main": "plugin/withASATools.js",
+  "keywords": ["react-native","expo","asatools-expo","ASATools","Search Ads","Apple Search Ads"],
+  "repository": "http://github.com/asatools/asatools-expo",
+  "author": "vdugnist <vlad@asa.tools> (http://github.com/asatools)",
+  "license": "MIT",
+  "homepage": "https://asa.tools",
+  "peerDependencies": {
+    "expo": "^49.0.0"
+  }
+}
